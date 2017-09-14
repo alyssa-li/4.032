@@ -1,4 +1,4 @@
-## 12 Clocks
+# 12 Clocks
 
 ![Image](schedule.png)
 
