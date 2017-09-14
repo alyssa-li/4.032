@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/alyssa-li/4.032/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![schedule.png](src)
+![Image](schedule.png)
 
 ### Markdown
 
