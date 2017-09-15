@@ -1,3 +1,3 @@
-# 12 Clocks
+## 12 Clocks
 
-<img src="schedule.png" alt="Drawing" style="width: 100px;"/>
+<img src="schedule.png" alt="Drawing" style="width: 300px;"/>
